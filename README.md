@@ -25,3 +25,7 @@ A tabela D_Calendário foi criada a partir de uma função DAX, na qual ela foi 
  
 A tabela apresenta granularidade a nível de DIA, ou seja, vendas realizadas por dia, então isso significa que seu nível de detalhe é muito grande, logo sua granularidade é alta.
 As principais funcionalidades de uma tabela D_Calendário, além fornecer uma maneira estruturada de trabalhar com informações de tempo em análises e relatórios, são: facilitar agrupamentos e análises temporais, evitar redundância, facilitar a criação de medidas calculadas, criar filtros e cálculos com base em períodos de tempo com maior facilidade e garantir que os relatórios e dashboards utilizem a mesma lógica e estrutura temporal.
+
+![desafio_dio_modelagem_transformação_com_dax_power_bi](https://github.com/user-attachments/assets/0f1b259e-43f4-4d57-8cdc-588b804e3c44)
+
+
