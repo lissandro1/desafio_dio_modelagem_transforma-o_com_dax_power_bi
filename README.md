@@ -22,7 +22,7 @@ A cardinalidade entre as tabelas é de 1:* (um para muitos) ou *:* (muitos para 
 
 ### Função DAX
  
-A tabela D_Calendário foi criada a partir de uma função DAX, na qual ela foi gerada através das datas (coluna Date) da tabela de origem financials_origem, dando origem a todas as colunas dessa tabela (Data, Ano, Mês número, Dia da semana, Dia da semana texto.
+A tabela D_Calendário foi criada a partir de uma função DAX, na qual ela foi gerada através das datas (coluna Date) da tabela de origem financials_origem, dando origem a todas as colunas dessa tabela (Data, Ano, Mês número, Dia da semana, Dia da semana texto).
  
 A tabela apresenta granularidade a nível de DIA, ou seja, vendas realizadas por dia, então isso significa que seu nível de detalhe é muito grande, logo sua granularidade é alta.
 As principais funcionalidades de uma tabela D_Calendário, além fornecer uma maneira estruturada de trabalhar com informações de tempo em análises e relatórios, são: facilitar agrupamentos e análises temporais, evitar redundância, facilitar a criação de medidas calculadas, criar filtros e cálculos com base em períodos de tempo com maior facilidade e garantir que os relatórios e dashboards utilizem a mesma lógica e estrutura temporal.
