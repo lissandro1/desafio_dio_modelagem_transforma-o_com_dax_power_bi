@@ -1,6 +1,6 @@
 ## Bootcamp DIO - NTT DATA - Engenharia de Dados com Python
 
-## *Desafio de Projeto - Criando um Modelo de Dados (Star Schema) para um cenário educacional*
+## *Desafio de Projeto -  Modelagem e Transformação de dados com DAX com Power BI*
 
 
 ### Processo de construção
