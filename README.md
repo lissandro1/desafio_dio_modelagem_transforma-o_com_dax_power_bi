@@ -12,6 +12,7 @@
 - D_Produtos_Detalhes: Tabela dimensão que possui os detalhes do produto como preço de fabricação, preço de venda e unidades vendidas.
 - D_Descontos: Tabela dimensão que contém informações sobre descontos e faixas de descontos.
 - D_Calendário: Tabela dimensão de calendário para facilitar a análise temporal.
+
 Com a ferrramenta Power Query do Power BI, houve também um processo transformação de colunas (colunas condicionais) e limpeza os dados para garantir consistência e qualidade, isso incluiu a remoção de duplicatas e padronização de formatos.
 
 **Relacionamento e Cardinalidade**
